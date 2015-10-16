@@ -5,7 +5,7 @@ var geoData = require('../geoData.json');
 var _ = require('underscore');
 
 
-router.get('/generate', function(req, res, next) {
+/*router.get('/generate', function(req, res, next) {
     dataHelper.processYML('data', function response(data) {
         res.send({
             items: data
@@ -13,7 +13,7 @@ router.get('/generate', function(req, res, next) {
     }, function error(err) {
         console.log(err);
     });
-});
+});*/
 
 router.get('/', function(req, res, next) {
     var code = 404;
@@ -74,8 +74,8 @@ router.get('/countries', function(req, res, next) {
     try {
         for(var i=0; i<geoData.length; i++) {
             resInfo.push({
-                name: geoData.name,
-                abbreviation: geoData.abbreviation
+                name: geoData[i].name,
+                abbreviation: geoData[i].abbreviation
             });
         }
 
@@ -159,5 +159,7 @@ router.get('/cities', function(req, res, next) {
         });
     }
 });
+
+
 
 module.exports = router;
