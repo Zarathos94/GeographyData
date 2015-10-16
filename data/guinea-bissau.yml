@@ -1,0 +1,244 @@
+--- 
+geonamesid: 2372248
+iso: GW
+name: Guinea-Bissau
+names_en: 
+  - Guinea-Bissau
+  - "Republic of Guinea-Bissau"
+names_es: 
+  - Guinea-Bissáu
+  - Guinea-Bissau
+regions: 
+  - 
+    ascii_name: Tombali
+    cities: 
+      - 
+        alternate_names: 
+          - Catio
+          - Catió
+        ascii_name: Catio
+        geonamesid: 2373526
+        latitude: 11.28333
+        longitude: -15.25
+        name: Catió
+        names_en: 
+          - Catió
+        names_es: ~
+        population: 9898
+        timezone: Africa/Bissau
+    geonamesid: 2368955
+    name: Tombali
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Quinara
+    cities: 
+      - 
+        alternate_names: 
+          - Buba
+        ascii_name: Buba
+        geonamesid: 2374588
+        latitude: 11.58333
+        longitude: -15.0
+        name: Buba
+        names_en: ~
+        names_es: ~
+        population: 7779
+        timezone: Africa/Bissau
+    geonamesid: 2370360
+    name: Quinara
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Oio
+    cities: 
+      - 
+        alternate_names: 
+          - Mansoa
+          - Mansôa
+          - "Porto Mansoa"
+        ascii_name: Mansoa
+        geonamesid: 2371467
+        latitude: 12.07333
+        longitude: -15.31889
+        name: Mansôa
+        names_en: ~
+        names_es: ~
+        population: 7821
+        timezone: Africa/Bissau
+      - 
+        alternate_names: 
+          - Farim
+        ascii_name: Farim
+        geonamesid: 2372647
+        latitude: 12.48389
+        longitude: -15.22167
+        name: Farim
+        names_en: ~
+        names_es: ~
+        population: 6792
+        timezone: Africa/Bissau
+      - 
+        alternate_names: 
+          - Bissora
+          - Bissoram
+          - Bissorã
+        ascii_name: Bissora
+        geonamesid: 2374759
+        latitude: 12.22306
+        longitude: -15.4475
+        name: Bissorã
+        names_en: ~
+        names_es: ~
+        population: 12688
+        timezone: Africa/Bissau
+    geonamesid: 2371071
+    name: Oio
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Gabu
+    cities: 
+      - 
+        alternate_names: 
+          - Gaba
+          - Gabu
+          - Gabu-Sara
+          - Gabú
+        ascii_name: Gabu
+        geonamesid: 2372532
+        latitude: 12.28333
+        longitude: -14.21667
+        name: Gabú
+        names_en: 
+          - Gabú
+        names_es: ~
+        population: 14430
+        timezone: Africa/Bissau
+    geonamesid: 2372533
+    name: Gabú
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Cacheu
+    cities: 
+      - 
+        alternate_names: 
+          - Canchungo
+          - Pinto
+          - "Teixeira Pinto"
+        ascii_name: Canchungo
+        geonamesid: 2373951
+        latitude: 12.06722
+        longitude: -16.03333
+        name: Canchungo
+        names_en: ~
+        names_es: ~
+        population: 6853
+        timezone: Africa/Bissau
+      - 
+        alternate_names: 
+          - Cacheu
+        ascii_name: Cacheu
+        geonamesid: 2374311
+        latitude: 12.27056
+        longitude: -16.16583
+        name: Cacheu
+        names_en: 
+          - Cacheu
+        names_es: ~
+        population: 10490
+        timezone: Africa/Bissau
+    geonamesid: 2374312
+    name: Cacheu
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bolama and Bijagos"
+    cities: 
+      - 
+        alternate_names: 
+          - Bolama
+          - Bulama
+          - "Port Beaver"
+        ascii_name: Bolama
+        geonamesid: 2374688
+        latitude: 11.58333
+        longitude: -15.46667
+        name: Bolama
+        names_en: 
+          - Bolama
+        names_es: ~
+        population: 10769
+        timezone: Africa/Bissau
+    geonamesid: 2374689
+    name: "Bolama and Bijagos"
+    names_en: 
+      - "Bolama and Bijagos"
+    names_es: ~
+  - 
+    ascii_name: "Bissau Autonomous Region"
+    cities: 
+      - 
+        alternate_names: 
+          - Bisao
+          - Bisau
+          - "Bisau - Bissau"
+          - Bisauo
+        ascii_name: Bissau
+        geonamesid: 2374775
+        latitude: 11.86357
+        longitude: -15.59767
+        name: Bissau
+        names_en: 
+          - Bissau
+        names_es: 
+          - Bissáu
+          - Bissau
+        population: 388028
+        timezone: Africa/Bissau
+    geonamesid: 2374776
+    name: "Bissau Autonomous Region"
+    names_en: 
+      - "Bissau Autonomous Region"
+    names_es: ~
+  - 
+    ascii_name: Biombo
+    cities: 
+      - 
+        alternate_names: 
+          - Quinhamel
+          - Quinhameli
+          - Quinhámel
+        ascii_name: Quinhamel
+        geonamesid: 2370358
+        latitude: 11.88333
+        longitude: -15.85
+        name: Quinhámel
+        names_en: 
+          - Quinhámel
+        names_es: ~
+        population: 3128
+        timezone: Africa/Bissau
+    geonamesid: 2374820
+    name: Biombo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: Bafata
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Bafata
+        geonamesid: 2375254
+        latitude: 12.16667
+        longitude: -14.66667
+        name: Bafatá
+        names_en: ~
+        names_es: ~
+        population: 22521
+        timezone: Africa/Bissau
+    geonamesid: 2375255
+    name: Bafatá
+    names_en: ~
+    names_es: ~

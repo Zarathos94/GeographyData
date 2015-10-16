@@ -1,0 +1,350 @@
+--- 
+geonamesid: 433561
+iso: BI
+name: Burundi
+names_en: 
+  - Burundi
+  - "Republic of Burundi"
+names_es: 
+  - Burundi
+regions: 
+  - 
+    ascii_name: "iProvense ya Makamba"
+    cities: 
+      - 
+        alternate_names: 
+          - Makamba
+          - Макамба
+        ascii_name: Makamba
+        geonamesid: 422232
+        latitude: -4.1348
+        longitude: 29.804
+        name: Makamba
+        names_en: 
+          - Makamba
+        names_es: ~
+        population: 19642
+        timezone: Africa/Bujumbura
+    geonamesid: 422233
+    name: Makamba
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Bururi"
+    cities: 
+      - 
+        alternate_names: 
+          - Bururi
+          - "Mont Bururi"
+          - Бурури
+        ascii_name: Bururi
+        geonamesid: 423328
+        latitude: -3.94877
+        longitude: 29.62438
+        name: Bururi
+        names_en: 
+          - Bururi
+        names_es: ~
+        population: 19740
+        timezone: Africa/Bujumbura
+      - 
+        alternate_names: ~
+        ascii_name: Rumonge
+        geonamesid: 423549
+        latitude: -3.9736
+        longitude: 29.4386
+        name: Rumonge
+        names_en: ~
+        names_es: ~
+        population: 6074
+        timezone: Africa/Bujumbura
+    geonamesid: 423327
+    name: Bururi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Muramvya"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Muramvya
+        geonamesid: 425551
+        latitude: -3.2682
+        longitude: 29.6079
+        name: Muramvya
+        names_en: ~
+        names_es: ~
+        population: 18041
+        timezone: Africa/Bujumbura
+    geonamesid: 425550
+    name: Muramvya
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Gitega"
+    cities: 
+      - 
+        alternate_names: 
+          - Gitega
+          - Gitege
+          - Kitega
+          - Гитеге
+        ascii_name: Gitega
+        geonamesid: 426272
+        latitude: -3.4264
+        longitude: 29.9308
+        name: Gitega
+        names_en: 
+          - Gitega
+        names_es: 
+          - Gitega
+        population: 23167
+        timezone: Africa/Bujumbura
+    geonamesid: 426271
+    name: Gitega
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Ruyigi"
+    cities: 
+      - 
+        alternate_names: 
+          - Rujigi
+          - Ruyigi
+          - Руйиги
+        ascii_name: Ruyigi
+        geonamesid: 426700
+        latitude: -3.47639
+        longitude: 30.24861
+        name: Ruyigi
+        names_en: 
+          - Ruyigi
+        names_es: ~
+        population: 38458
+        timezone: Africa/Bujumbura
+    geonamesid: 426699
+    name: Ruyigi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Cankuzo"
+    cities: 
+      - 
+        alternate_names: 
+          - Cankuzo
+          - Kankuzo
+          - Канкузо
+        ascii_name: Cankuzo
+        geonamesid: 427701
+        latitude: -3.21944
+        longitude: 30.55278
+        name: Cankuzo
+        names_en: ~
+        names_es: ~
+        population: 6585
+        timezone: Africa/Bujumbura
+    geonamesid: 427700
+    name: Cankuzo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Karuzi"
+    cities: 
+      - 
+        alternate_names: 
+          - Karuzi
+        ascii_name: Karuzi
+        geonamesid: 428219
+        latitude: -3.10139
+        longitude: 30.16472
+        name: Karuzi
+        names_en: 
+          - Karuzi
+        names_es: ~
+        population: 10705
+        timezone: Africa/Bujumbura
+    geonamesid: 428218
+    name: Karuzi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Bubanza"
+    cities: 
+      - 
+        alternate_names: 
+          - Bubanza
+          - Бубанза
+        ascii_name: Bubanza
+        geonamesid: 428515
+        latitude: -3.0804
+        longitude: 29.391
+        name: Bubanza
+        names_en: 
+          - Bubanza
+        names_es: ~
+        population: 12728
+        timezone: Africa/Bujumbura
+    geonamesid: 428514
+    name: Bubanza
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Cibitoke"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: Cibitoke
+        geonamesid: 430021
+        latitude: -2.8869
+        longitude: 29.1248
+        name: Cibitoke
+        names_en: ~
+        names_es: ~
+        population: 14220
+        timezone: Africa/Bujumbura
+    geonamesid: 430020
+    name: Cibitoke
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Ngozi"
+    cities: 
+      - 
+        alternate_names: 
+          - Ngozi
+          - Нгози
+        ascii_name: Ngozi
+        geonamesid: 430569
+        latitude: -2.9075
+        longitude: 29.8306
+        name: Ngozi
+        names_en: 
+          - Ngozi
+        names_es: ~
+        population: 21506
+        timezone: Africa/Bujumbura
+    geonamesid: 430567
+    name: Ngozi
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Kayanza"
+    cities: 
+      - 
+        alternate_names: 
+          - Kayanza
+        ascii_name: Kayanza
+        geonamesid: 430952
+        latitude: -2.9221
+        longitude: 29.6293
+        name: Kayanza
+        names_en: 
+          - Kayanza
+        names_es: ~
+        population: 19443
+        timezone: Africa/Bujumbura
+    geonamesid: 430951
+    name: Kayanza
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Muyinga"
+    cities: 
+      - 
+        alternate_names: 
+          - Mujinga
+          - Muyinga
+          - Муйинга
+        ascii_name: Muyinga
+        geonamesid: 431748
+        latitude: -2.84944
+        longitude: 30.33611
+        name: Muyinga
+        names_en: 
+          - Muyinga
+        names_es: ~
+        population: 71076
+        timezone: Africa/Bujumbura
+    geonamesid: 431747
+    name: Muyinga
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Kirundo"
+    cities: 
+      - 
+        alternate_names: 
+          - Kirundo
+          - Кирундо
+        ascii_name: Kirundo
+        geonamesid: 432456
+        latitude: -2.58472
+        longitude: 30.09722
+        name: Kirundo
+        names_en: ~
+        names_es: ~
+        population: 6083
+        timezone: Africa/Bujumbura
+    geonamesid: 432455
+    name: Kirundo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "iProvense ya Rutana"
+    cities: 
+      - 
+        alternate_names: 
+          - Rutana
+          - Рутана
+        ascii_name: Rutana
+        geonamesid: 433635
+        latitude: -3.9279
+        longitude: 29.992
+        name: Rutana
+        names_en: 
+          - Rutana
+        names_es: ~
+        population: 20893
+        timezone: Africa/Bujumbura
+    geonamesid: 434147
+    name: Rutana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Province de Mwaro"
+    cities: []
+    geonamesid: 434386
+    name: Mwaro
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bujumbura Mairie"
+    cities: 
+      - 
+        alternate_names: 
+          - Budzumbura
+          - Bujumbura
+          - Bujumburo
+          - Buj·umbura
+        ascii_name: Bujumbura
+        geonamesid: 425378
+        latitude: -3.3822
+        longitude: 29.3644
+        name: Bujumbura
+        names_en: 
+          - Bujumbura
+        names_es: 
+          - Bujumbura
+        population: 331700
+        timezone: Africa/Bujumbura
+    geonamesid: 7303939
+    name: "Bujumbura Mairie"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bujumbura Rural"
+    cities: []
+    geonamesid: 7303940
+    name: "Bujumbura Rural"
+    names_en: ~
+    names_es: ~

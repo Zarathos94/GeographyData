@@ -1,0 +1,303 @@
+--- 
+geonamesid: 3572887
+iso: BS
+name: Bahamas
+names_en: 
+  - Bahamas
+  - "The Bahamas"
+names_es: 
+  - Bahamas
+regions: 
+  - 
+    ascii_name: "San Salvador and Rum Cay District"
+    cities: []
+    geonamesid: 3571493
+    name: "San Salvador and Rum Cay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Sandy Point District"
+    cities: []
+    geonamesid: 3571495
+    name: "Sandy Point"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Rock Sound District"
+    cities: 
+      - 
+        alternate_names: 
+          - "New Portsmouth"
+          - "New Portsmouth Settlement"
+          - "Rock Sound"
+        ascii_name: "Rock Sound"
+        geonamesid: 3571592
+        latitude: 24.9
+        longitude: -76.2
+        name: "Rock Sound"
+        names_en: ~
+        names_es: ~
+        population: 1396
+        timezone: America/Nassau
+    geonamesid: 3571591
+    name: "Rock Sound"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Ragged Island District"
+    cities: []
+    geonamesid: 3571629
+    name: "Ragged Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Nichollstown and Berry Islands District"
+    cities: []
+    geonamesid: 3571809
+    name: "Nichollstown and Berry Islands"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "New Providence District"
+    cities: 
+      - 
+        alternate_names: 
+          - "City of Nassau"
+          - Nasau
+          - Nassaou
+          - Nassau
+        ascii_name: Nassau
+        geonamesid: 3571824
+        latitude: 25.05823
+        longitude: -77.34306
+        name: Nassau
+        names_en: 
+          - Nassau
+        names_es: 
+          - Nassau
+        population: 227940
+        timezone: America/Nassau
+    geonamesid: 3571815
+    name: "New Providence"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Mayaguana District"
+    cities: []
+    geonamesid: 3571894
+    name: Mayaguana
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Marsh Harbour District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Marsh Harbor"
+        ascii_name: "Marsh Harbour"
+        geonamesid: 3571913
+        latitude: 26.54124
+        longitude: -77.0636
+        name: "Marsh Harbour"
+        names_en: ~
+        names_es: ~
+        population: 5314
+        timezone: America/Nassau
+    geonamesid: 3571912
+    name: "Marsh Harbour"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Long Island District"
+    cities: 
+      - 
+        alternate_names: 
+          - Clarence
+          - "Clarence Town"
+        ascii_name: "Clarence Town"
+        geonamesid: 3572640
+        latitude: 23.1
+        longitude: -74.98333
+        name: "Clarence Town"
+        names_en: ~
+        names_es: ~
+        population: 1752
+        timezone: America/Nassau
+    geonamesid: 3572005
+    name: "Long Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Kemps Bay District"
+    cities: []
+    geonamesid: 3572109
+    name: "Kemps Bay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Inagua District"
+    cities: []
+    geonamesid: 3572154
+    name: Inagua
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "High Rock District"
+    cities: 
+      - 
+        alternate_names: 
+          - "High Rock"
+          - "High Rock Village"
+          - "High Rocks"
+        ascii_name: "High Rock"
+        geonamesid: 3572189
+        latitude: 26.62083
+        longitude: -78.28333
+        name: "High Rock"
+        names_en: ~
+        names_es: ~
+        population: 3744
+        timezone: America/Nassau
+    geonamesid: 3572188
+    name: "High Rock"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Harbour Island District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Dunmore Town"
+          - "Harbour Island"
+        ascii_name: "Dunmore Town"
+        geonamesid: 3572462
+        latitude: 25.5
+        longitude: -76.65
+        name: "Dunmore Town"
+        names_en: ~
+        names_es: ~
+        population: 1523
+        timezone: America/Nassau
+    geonamesid: 3572238
+    name: "Harbour Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Green Turtle Cay District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Cooper's Town"
+        geonamesid: 3572601
+        latitude: 26.86667
+        longitude: -77.51667
+        name: "Cooper’s Town"
+        names_en: ~
+        names_es: ~
+        population: 8413
+        timezone: America/Nassau
+    geonamesid: 3572271
+    name: "Green Turtle Cay"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Governor's Harbour District"
+    cities: []
+    geonamesid: 3572312
+    name: "Governorʼs Harbour"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Fresh Creek District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Andros Town"
+          - "Fresh Creek"
+        ascii_name: "Andros Town"
+        geonamesid: 3572906
+        latitude: 24.7
+        longitude: -77.76667
+        name: "Andros Town"
+        names_en: ~
+        names_es: ~
+        population: 2455
+        timezone: America/Nassau
+    geonamesid: 3572363
+    name: "Fresh Creek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "City of Freeport District"
+    cities: 
+      - 
+        alternate_names: 
+          - "West End"
+          - "West End Settlement"
+        ascii_name: "West End"
+        geonamesid: 3571224
+        latitude: 26.68333
+        longitude: -78.96667
+        name: "West End"
+        names_en: ~
+        names_es: ~
+        population: 12724
+        timezone: America/Nassau
+      - 
+        alternate_names: 
+          - Lucaya
+        ascii_name: Lucaya
+        geonamesid: 3571971
+        latitude: 26.53333
+        longitude: -78.66667
+        name: Lucaya
+        names_en: ~
+        names_es: ~
+        population: 46525
+        timezone: America/Nassau
+      - 
+        alternate_names: 
+          - Freeport
+          - "Freeport City"
+        ascii_name: Freeport
+        geonamesid: 3572375
+        latitude: 26.53333
+        longitude: -78.7
+        name: Freeport
+        names_en: 
+          - Freeport
+        names_es: ~
+        population: 26910
+        timezone: America/Nassau
+    geonamesid: 3572374
+    name: Freeport
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Exuma District"
+    cities: []
+    geonamesid: 3572427
+    name: Exuma
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cat Island District"
+    cities: []
+    geonamesid: 3572678
+    name: "Cat Island"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Bimini District"
+    cities: []
+    geonamesid: 3572807
+    name: Bimini
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Acklins Island District"
+    cities: []
+    geonamesid: 3572937
+    name: "Acklins and Crooked Islands"
+    names_en: ~
+    names_es: ~

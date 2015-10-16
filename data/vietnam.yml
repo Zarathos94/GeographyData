@@ -1,0 +1,1644 @@
+--- 
+geonamesid: 1562822
+iso: VN
+name: Vietnam
+names_en: 
+  - Vietnam
+  - "Socialist Republic of Vietnam"
+names_es: 
+  - Vietnam
+regions: 
+  - 
+    ascii_name: "Tinh Nghe An"
+    cities: 
+      - 
+        alternate_names: 
+          - Vin
+          - Vinh
+        ascii_name: Vinh
+        geonamesid: 1562798
+        latitude: 18.66667
+        longitude: 105.66667
+        name: Vinh
+        names_en: ~
+        names_es: ~
+        population: 163759
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559969
+    name: "Nghệ An"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ninh Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Nin Bin\""
+          - "Nin Bin”"
+          - Ninbinh
+          - "Ninh Binh"
+        ascii_name: "Ninh Binh"
+        geonamesid: 1571968
+        latitude: 20.25389
+        longitude: 105.975
+        name: "Ninh Bình"
+        names_en: ~
+        names_es: ~
+        population: 36864
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559970
+    name: "Ninh Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ninh Thuan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Phan Rang"
+          - "Phan Rang- Thap Cham"
+          - "Phan Rang-Thap Cham"
+          - "Phan Rang-Tháp Chàm"
+        ascii_name: "Phan Rang-Thap Cham"
+        geonamesid: 1571067
+        latitude: 11.56667
+        longitude: 108.98333
+        name: "Phan Rang-Tháp Chàm"
+        names_en: 
+          - "Phan Rang-Tháp Chàm"
+        names_es: ~
+        population: 91520
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559971
+    name: "Ninh Thuận"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Soc Trang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Khanh Hong"
+          - "Khanh Hung"
+          - "Khánh Hưng"
+          - Shokchang
+        ascii_name: "Soc Trang"
+        geonamesid: 1567788
+        latitude: 9.60333
+        longitude: 105.98
+        name: "Sóc Trăng"
+        names_en: ~
+        names_es: ~
+        population: 114453
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Con Son"
+          - "Con Son City"
+          - "Côn Sơn"
+          - "Grande Village de Poulo Condore"
+        ascii_name: "Con Son"
+        geonamesid: 1584807
+        latitude: 8.68333
+        longitude: 106.61667
+        name: "Côn Sơn"
+        names_en: ~
+        names_es: ~
+        population: 1500
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559972
+    name: "Sóc Trăng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tra Vinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Phu Vinh"
+          - "Phú Vinh"
+          - "Tra Vin\""
+          - "Tra Vinh"
+        ascii_name: "Tra Vinh"
+        geonamesid: 1563926
+        latitude: 9.93472
+        longitude: 106.34528
+        name: "Trà Vinh"
+        names_en: ~
+        names_es: ~
+        population: 57408
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559975
+    name: "Trà Vinh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tuyen Quang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tuyen Kang"
+          - "Tuyen Kwang"
+          - "Tuyen Quang"
+          - "Tuyên Quang"
+        ascii_name: "Tuyen Quang"
+        geonamesid: 1563287
+        latitude: 21.82333
+        longitude: 105.21806
+        name: "Tuyên Quang"
+        names_en: ~
+        names_es: ~
+        population: 36430
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559976
+    name: "Tuyên Quang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Vinh Long"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vinh Long"
+          - "Vĩnh Long"
+        ascii_name: "Vinh Long"
+        geonamesid: 1562693
+        latitude: 10.25
+        longitude: 105.96667
+        name: "Vĩnh Long"
+        names_en: ~
+        names_es: ~
+        population: 103314
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559977
+    name: "Vĩnh Long"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Yen Bai"
+    cities: 
+      - 
+        alternate_names: 
+          - Jenbaj
+          - "Yen Bai"
+          - "Yen Bay"
+          - "Yên Bái"
+        ascii_name: "Yen Bai"
+        geonamesid: 1560349
+        latitude: 21.7
+        longitude: 104.86667
+        name: "Yên Bái"
+        names_en: ~
+        names_es: ~
+        population: 96540
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1559978
+    name: "Yên Bái"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lao Cai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Lao Kay"
+          - Laokai
+          - Laokaj
+          - Лаокай
+        ascii_name: "Lao Cai"
+        geonamesid: 1576303
+        latitude: 22.48333
+        longitude: 103.95
+        name: "Lào Cai"
+        names_en: ~
+        names_es: ~
+        population: 36502
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1562412
+    name: "Lào Cai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tien Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - Mitho
+          - "My Tho"
+          - "Mỹ Tho"
+        ascii_name: "My Tho"
+        geonamesid: 1574023
+        latitude: 10.35
+        longitude: 106.35
+        name: "Mỹ Tho"
+        names_en: 
+          - "Mỹ Tho"
+        names_es: ~
+        population: 122310
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1564676
+    name: "Tiền Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thua Thien-Hue"
+    cities: 
+      - 
+        alternate_names: 
+          - Hue
+          - Hué
+          - Huế
+          - Khjue
+        ascii_name: Hue
+        geonamesid: 1580240
+        latitude: 16.46667
+        longitude: 107.6
+        name: Huế
+        names_en: 
+          - Huế
+        names_es: 
+          - Hué
+        population: 287217
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1565033
+    name: "Thừa Thiên-Huế"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Kon Tum"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cong Tum"
+          - "Công Tum"
+          - "Kon Tum"
+          - "Tinh Kontum"
+        ascii_name: "Kon Tum"
+        geonamesid: 1578500
+        latitude: 14.35
+        longitude: 108.0
+        name: "Kon Tum"
+        names_en: ~
+        names_es: ~
+        population: 47409
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1565088
+    name: "Kon Tum"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thanh Hoa"
+    cities: 
+      - 
+        alternate_names: 
+          - "Than\" Hoa"
+          - "Thanh Hoa"
+          - "Thanh Hóa"
+          - "Than” Hoa"
+        ascii_name: "Thanh Hoa"
+        geonamesid: 1566166
+        latitude: 19.8
+        longitude: 105.76667
+        name: "Thanh Hóa"
+        names_en: 
+          - "Thanh Hóa"
+        names_es: ~
+        population: 112473
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Bien Son"
+          - "Bim Son"
+          - "Biên Sơn"
+          - "Bỉm Sơn"
+        ascii_name: "Bim Son"
+        geonamesid: 1587919
+        latitude: 20.07806
+        longitude: 105.86028
+        name: "Bỉm Sơn"
+        names_en: ~
+        names_es: ~
+        population: 53754
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1566165
+    name: "Thanh Hóa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thai Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kua Loc"
+          - Taibinh
+          - "Thai Bin\""
+          - "Thai Binh"
+        ascii_name: "Thai Binh"
+        geonamesid: 1566346
+        latitude: 20.45
+        longitude: 106.33333
+        name: "Thái Bình"
+        names_en: ~
+        names_es: ~
+        population: 53071
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1566338
+    name: "Thái Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Tay Ninh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tai nin"
+          - "Tay Ninh"
+          - "Tei Nin"
+          - "Tây Ninh"
+        ascii_name: "Tay Ninh"
+        geonamesid: 1566559
+        latitude: 11.3
+        longitude: 106.1
+        name: "Tây Ninh"
+        names_en: ~
+        names_es: ~
+        population: 36456
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: ~
+        ascii_name: "Phu Khuong"
+        geonamesid: 1570549
+        latitude: 11.28333
+        longitude: 106.13333
+        name: "Phú Khương"
+        names_en: ~
+        names_es: ~
+        population: 47966
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1566557
+    name: "Tây Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Son La"
+    cities: 
+      - 
+        alternate_names: 
+          - "Son La"
+          - "Son La Chau"
+          - "Son Lu"
+          - Son-La
+        ascii_name: "Son La"
+        geonamesid: 1567681
+        latitude: 21.31667
+        longitude: 103.9
+        name: "Sơn La"
+        names_en: ~
+        names_es: ~
+        population: 19054
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1567643
+    name: "Sơn La"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Tri"
+    cities: 
+      - 
+        alternate_names: 
+          - Chapa
+          - Shapa
+          - Шапа
+        ascii_name: "Sa Pa"
+        geonamesid: 1568043
+        latitude: 22.34023
+        longitude: 103.84415
+        name: "Sa Pá"
+        names_en: ~
+        names_es: ~
+        population: 138622
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Dong Ha"
+          - "Dong Na"
+          - "Thi Xa Dong Ha"
+          - "Thi Xã Ðòng Hà"
+        ascii_name: "Dong Ha"
+        geonamesid: 1582926
+        latitude: 16.81625
+        longitude: 107.10031
+        name: "Ðông Hà"
+        names_en: 
+          - "Dong Ha"
+        names_es: ~
+        population: 17662
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1568733
+    name: "Quảng Trị"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Ninh"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Uong Bi"
+        geonamesid: 1563241
+        latitude: 21.03333
+        longitude: 106.78333
+        name: "Uông Bí"
+        names_en: ~
+        names_es: ~
+        population: 63829
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Ha Long"
+          - "Hon Cay"
+          - "Hon Gai"
+          - "Hon Gay"
+        ascii_name: "Ha Long"
+        geonamesid: 1580410
+        latitude: 20.95111
+        longitude: 107.08
+        name: "Hạ Long"
+        names_en: 
+          - "Ha Long"
+        names_es: ~
+        population: 148066
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: ~
+        ascii_name: "Cam Pha Mines"
+        geonamesid: 1586357
+        latitude: 21.01667
+        longitude: 107.3
+        name: "Cẩm Phả Mines"
+        names_en: ~
+        names_es: ~
+        population: 135477
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1568758
+    name: "Quảng Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Ngai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Kang Ngei"
+          - Kuangngaj
+          - "Kwang Ngai"
+          - "Quang Ngai"
+        ascii_name: "Quang Ngai"
+        geonamesid: 1568770
+        latitude: 15.11667
+        longitude: 108.8
+        name: "Quảng Ngãi"
+        names_en: 
+          - "Quảng Ngãi"
+        names_es: ~
+        population: 32992
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1568769
+    name: "Quảng Ngãi"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Dong Hoi"
+          - Dongkhoj
+          - "Kwang Binh"
+          - "tong hai shi"
+        ascii_name: "Dong Hoi"
+        geonamesid: 1582886
+        latitude: 17.48333
+        longitude: 106.6
+        name: "Ðồng Hới"
+        names_en: 
+          - "Dong Hoi"
+        names_es: 
+          - "Dong Hoi"
+        population: 31040
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1568839
+    name: "Quảng Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Phu Yen"
+    cities: 
+      - 
+        alternate_names: 
+          - "Chau Thanh"
+          - "Thuy Hoa"
+          - "Toy Hoa"
+          - "Tuy Hoa"
+        ascii_name: "Tuy Hoa"
+        geonamesid: 1563281
+        latitude: 13.08333
+        longitude: 109.3
+        name: "Tuy Hòa"
+        names_en: ~
+        names_es: ~
+        population: 69596
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Bong Cau"
+          - "Bông Cầu"
+          - "Song Cau"
+          - "Song Ka"
+        ascii_name: "Song Cau"
+        geonamesid: 1567723
+        latitude: 13.45
+        longitude: 109.21667
+        name: "Sông Cầu"
+        names_en: 
+          - "Song Cau"
+        names_es: ~
+        population: 94066
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1569805
+    name: "Phú Yên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hoa Binh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hao Binh"
+          - "Hoa Bin"
+          - "Hoa Binh"
+          - "Hòa Bình"
+        ascii_name: "Hoa Binh"
+        geonamesid: 1580830
+        latitude: 20.81333
+        longitude: 105.33833
+        name: "Hòa Bình"
+        names_en: ~
+        names_es: ~
+        population: 105260
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1572594
+    name: "Hòa Bình"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Long An"
+    cities: 
+      - 
+        alternate_names: 
+          - Tan
+          - "Tan Am"
+          - "Tan An"
+          - "Tân An"
+        ascii_name: "Tan An"
+        geonamesid: 1567069
+        latitude: 10.53333
+        longitude: 106.41667
+        name: "Tân An"
+        names_en: ~
+        names_es: ~
+        population: 64801
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Can Duoc"
+          - "Can Gioc"
+          - "Can Giuoc"
+          - "Cần Duộc"
+        ascii_name: "Can Duoc"
+        geonamesid: 1586296
+        latitude: 10.61667
+        longitude: 106.66667
+        name: "Cần Duộc"
+        names_en: 
+          - "Can Giuoc"
+        names_es: ~
+        population: 152200
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1575788
+    name: "Long An"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lang Son"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Lang Son"
+        geonamesid: 1576633
+        latitude: 21.83333
+        longitude: 106.73333
+        name: "Lạng Sơn"
+        names_en: ~
+        names_es: ~
+        population: 55981
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1576632
+    name: "Lạng Sơn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lam Dong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Da Lat"
+          - "Da lat"
+          - Dalat
+          - "Ðà Lạt"
+        ascii_name: "Da Lat"
+        geonamesid: 1584071
+        latitude: 11.94646
+        longitude: 108.44193
+        name: "Ðà Lạt"
+        names_en: 
+          - "Da Lat"
+        names_es: ~
+        population: 197000
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1577882
+    name: "Lâm Ðồng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Lai Chau"
+    cities: 
+      - 
+        alternate_names: 
+          - "Muong So"
+        ascii_name: "Phong Tho"
+        geonamesid: 1570815
+        latitude: 22.53333
+        longitude: 103.35
+        name: "Phong Thổ"
+        names_en: ~
+        names_es: ~
+        population: 0
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1577954
+    name: "Lai Châu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Kien Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Rach Gia"
+          - "Rach Zhia"
+          - "Rạch Giá"
+        ascii_name: "Rach Gia"
+        geonamesid: 1568510
+        latitude: 10.01667
+        longitude: 105.08333
+        name: "Rạch Giá"
+        names_en: 
+          - "Rach Gia"
+        names_es: ~
+        population: 228356
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Duong Dong"
+          - Duong-Dong
+          - "Dương Dông"
+          - "Xom Duong Dong"
+        ascii_name: "Duong GJong"
+        geonamesid: 1569973
+        latitude: 10.21667
+        longitude: 103.96667
+        name: "Dương Đông"
+        names_en: 
+          - "Duong Dong"
+        names_es: ~
+        population: 15000
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Ha Tien"
+          - "Hà Tiên"
+          - Khat'en
+          - Хатьен
+        ascii_name: "Ha Tien"
+        geonamesid: 1581052
+        latitude: 10.38333
+        longitude: 104.48333
+        name: "Hà Tiên"
+        names_en: ~
+        names_es: ~
+        population: 40000
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1579008
+    name: "Kiến Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Khanh Hoa"
+    cities: 
+      - 
+        alternate_names: 
+          - Kanh-Hoa
+          - "Nha Trang"
+          - Njachang
+          - nyachan
+        ascii_name: "Nha Trang"
+        geonamesid: 1572151
+        latitude: 12.25
+        longitude: 109.18333
+        name: "Nha Trang"
+        names_en: 
+          - "Nha Trang"
+        names_es: 
+          - "Nha Trang"
+        population: 283441
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Cam Linh"
+          - "Cam Ranh Port"
+          - Kamran'
+          - "Thon Cam Ranh"
+        ascii_name: "Cam Ranh"
+        geonamesid: 1586350
+        latitude: 11.92144
+        longitude: 109.15913
+        name: "Cam Ranh"
+        names_en: ~
+        names_es: ~
+        population: 146771
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1579634
+    name: "Khánh Hòa"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thanh pho Ho Chi Minh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cathair Ho Chi Minh"
+          - "Cidade de Ho Chi Minh"
+          - "Ciudad Ho Chi Minh"
+          - HCMC
+        ascii_name: "Thanh pho Ho Chi Minh"
+        geonamesid: 1566083
+        latitude: 10.75
+        longitude: 106.66667
+        name: "Thành phố Hồ Chí Minh"
+        names_en: 
+          - HCMC
+          - "Ho Chi Minh City"
+        names_es: 
+          - "Ciudad Ho Chi Minh"
+        population: 3467331
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Cu Chi"
+          - "Củ Chi"
+          - Ku-Chi
+          - Ку-Чи
+        ascii_name: "Cu Chi"
+        geonamesid: 1584661
+        latitude: 10.96667
+        longitude: 106.46667
+        name: "Củ Chi"
+        names_en: ~
+        names_es: ~
+        population: 75000
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Can Gio"
+          - "Cần Giờ"
+        ascii_name: "Can Gio"
+        geonamesid: 1586288
+        latitude: 10.41667
+        longitude: 106.96667
+        name: "Cần Giờ"
+        names_en: 
+          - "Can Gio"
+        names_es: ~
+        population: 55137
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1580578
+    name: "Hồ Chí Minh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Tinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ha Tin'"
+          - "Ha Tinh"
+          - "Ha Tin’"
+          - "Hà Tĩnh"
+        ascii_name: "Ha Tinh"
+        geonamesid: 1581047
+        latitude: 18.33333
+        longitude: 105.9
+        name: "Hà Tĩnh"
+        names_en: ~
+        names_es: ~
+        population: 27728
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1580700
+    name: "Hà Tĩnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Tay"
+    cities: 
+      - 
+        alternate_names: 
+          - "Son Tay"
+          - Son-Taj
+          - Sontai
+          - "Sơn Tây"
+        ascii_name: "Son Tay"
+        geonamesid: 1567621
+        latitude: 21.13778
+        longitude: 105.505
+        name: "Sơn Tây"
+        names_en: ~
+        names_es: ~
+        population: 40636
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: ~
+        ascii_name: "Ha Dong"
+        geonamesid: 1581364
+        latitude: 20.9725
+        longitude: 105.77722
+        name: "Hà Ðông"
+        names_en: ~
+        names_es: ~
+        population: 50877
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581019
+    name: "Hà Tây"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Giang"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Ha Giang"
+        geonamesid: 1581349
+        latitude: 22.83333
+        longitude: 104.98333
+        name: "Hà Giang"
+        names_en: ~
+        names_es: ~
+        population: 32690
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581030
+    name: "Hà Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Gia Lai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Gia Lai"
+          - "Play Cu"
+          - "Play Ku"
+          - "Plei Cu"
+        ascii_name: Pleiku
+        geonamesid: 1569684
+        latitude: 13.98333
+        longitude: 108.0
+        name: Pleiku
+        names_en: 
+          - Pleiku
+        names_es: ~
+        population: 114225
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581088
+    name: "Gia Lai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thu Do Ha Noi"
+    cities: 
+      - 
+        alternate_names: 
+          - Anoi
+          - "Ha Noi"
+          - Hanoi
+          - Hanoj
+        ascii_name: "Ha Noi"
+        geonamesid: 1581130
+        latitude: 21.0245
+        longitude: 105.84117
+        name: "Hà Nội"
+        names_en: 
+          - Hanoi
+        names_es: 
+          - Hanoi
+          - Hanói
+        population: 1431270
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581129
+    name: "Ha Nội"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Can Tho"
+    cities: 
+      - 
+        alternate_names: 
+          - "Can Tho"
+          - "Cần Thơ"
+          - "Kan Tho"
+          - kanto
+        ascii_name: "Can Tho"
+        geonamesid: 1586203
+        latitude: 10.03333
+        longitude: 105.78333
+        name: "Cần Thơ"
+        names_en: 
+          - "Can Tho"
+        names_es: 
+          - "Can Tho"
+        population: 259598
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581188
+    name: "Cần Thơ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Thanh Pho Hai Phong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hai Phong"
+          - Haiphong
+          - Hajfong
+          - "Hải Phòng"
+        ascii_name: Haiphong
+        geonamesid: 1581298
+        latitude: 20.85611
+        longitude: 106.68222
+        name: Haiphong
+        names_en: 
+          - Haiphong
+        names_es: ~
+        population: 602695
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581297
+    name: "Hải Phòng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Thuan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fan Thiet"
+          - Fant'et
+          - Fanthit
+          - Fantiet
+        ascii_name: "Phan Thiet"
+        geonamesid: 1571058
+        latitude: 10.93333
+        longitude: 108.1
+        name: "Phan Thiết"
+        names_en: 
+          - "Phan Thiết"
+        names_es: ~
+        population: 160652
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1581882
+    name: "Bình Thuận"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dong Thap"
+    cities: 
+      - 
+        alternate_names: 
+          - "Sa Dec"
+          - "Sa Ðéc"
+          - Sadek
+        ascii_name: "Sa Dec"
+        geonamesid: 1568212
+        latitude: 10.3
+        longitude: 105.76667
+        name: "Sa Ðéc"
+        names_en: ~
+        names_es: ~
+        population: 60073
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - "Cao Lanh"
+          - "Cao Lãnh"
+          - "Phong Thanh"
+        ascii_name: "Cao Lanh"
+        geonamesid: 1586151
+        latitude: 10.45
+        longitude: 105.63333
+        name: "Cao Lãnh"
+        names_en: 
+          - "Cao Lanh"
+        names_es: ~
+        population: 63770
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1582562
+    name: "Ðồng Tháp"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dong Nai"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bia Hoa"
+          - "Bien Hoa"
+          - "Biên Hòa"
+        ascii_name: "Bien Hoa"
+        geonamesid: 1587923
+        latitude: 10.95
+        longitude: 106.81667
+        name: "Biên Hòa"
+        names_en: ~
+        names_es: ~
+        population: 407208
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1582720
+    name: "Ðồng Nai"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Dac Lak"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ban Me Thaut"
+          - "Ban Me Thnot"
+          - "Ban Me Thot"
+          - "Ban Me Thout"
+        ascii_name: "Buon Ma Thuot"
+        geonamesid: 1586896
+        latitude: 12.66667
+        longitude: 108.05
+        name: "Buôn Ma Thuột"
+        names_en: 
+          - "Buon Ma Thuot"
+        names_es: ~
+        population: 146975
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1584169
+    name: "Ðắc Lắk"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ba Ria-Vung Tau"
+    cities: 
+      - 
+        alternate_names: 
+          - Cap-Saint-Jacques
+          - "Saint James"
+          - "Ville du Cap"
+          - "Vung Tau"
+        ascii_name: "Vung Tau"
+        geonamesid: 1562414
+        latitude: 10.34599
+        longitude: 107.08426
+        name: "Vũng Tàu"
+        names_en: 
+          - "Vũng Tàu"
+        names_es: 
+          - "Vung Tau"
+        population: 209683
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1584534
+    name: "Bà Rịa-Vũng Tàu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Cao Bang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cao Bang"
+          - "Cao Bằng"
+          - "Cao Pang"
+          - "Kao Bang"
+        ascii_name: "Cao Bang"
+        geonamesid: 1586185
+        latitude: 22.66667
+        longitude: 106.25
+        name: "Cao Bằng"
+        names_en: ~
+        names_es: ~
+        population: 41112
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1586182
+    name: "Cao Bằng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Dinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ki N'on"
+          - "Ki N’on"
+          - Kin-hon
+          - Kwinhon
+        ascii_name: "Quy Nhon"
+        geonamesid: 1568574
+        latitude: 13.76667
+        longitude: 109.23333
+        name: "Quy Nhơn"
+        names_en: ~
+        names_es: ~
+        population: 210338
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1587871
+    name: "Bình Ðịnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ben Tre"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ben Tre"
+          - "Bến Tre"
+          - "Truc Giang"
+          - "Trúc Giang"
+        ascii_name: "Ben Tre"
+        geonamesid: 1587976
+        latitude: 10.23333
+        longitude: 106.38333
+        name: "Bến Tre"
+        names_en: 
+          - "Bến Tre"
+        names_es: ~
+        population: 59442
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1587974
+    name: "Bến Tre"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh An Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Cholong Xuyen"
+          - "Chơlong Xuyen"
+          - "Long Swiyen"
+          - "Long Xuyen"
+        ascii_name: "Long Xuyen"
+        geonamesid: 1575627
+        latitude: 10.38333
+        longitude: 105.41667
+        name: "Long Xuyên"
+        names_en: 
+          - "Long Xuyen"
+        names_es: ~
+        population: 158153
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - Angiang
+          - "Chau Doc"
+          - "Chau Phu"
+          - "Chau Phú"
+        ascii_name: "Chau Doc"
+        geonamesid: 1585660
+        latitude: 10.7
+        longitude: 105.11667
+        name: "Châu Ðốc"
+        names_en: ~
+        names_es: ~
+        population: 70239
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1594446
+    name: "An Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Dak Nong"
+    cities: []
+    geonamesid: 1904987
+    name: "Ðắk Nông"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Huyen Dien Bien"
+    cities: 
+      - 
+        alternate_names: 
+          - "D'en B'en Fu"
+          - "Dien Bien"
+          - "Dien Bien Phu"
+          - "Diên Biên Phu"
+        ascii_name: "Dien Bien Phu"
+        geonamesid: 1583477
+        latitude: 21.38333
+        longitude: 103.01667
+        name: "Diện Biên Phủ"
+        names_en: 
+          - "Dien Bien Phu"
+        names_es: 
+          - "Dien Bien Phu"
+        population: 40282
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905099
+    name: "Huyện Ðiện Biên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Ninh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Ninh"
+          - "Bacht Ninh"
+          - "Bak Nin"
+          - "Bak Ninh"
+        ascii_name: "Bac Ninh"
+        geonamesid: 1591449
+        latitude: 21.18333
+        longitude: 106.05
+        name: "Bắc Ninh"
+        names_en: ~
+        names_es: ~
+        population: 43564
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905412
+    name: "Bắc Ninh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Giang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Giang"
+          - "Bắc Giang"
+          - "Phu Lang Thong"
+          - "Phu Lang Thuong"
+        ascii_name: "Bac Giang"
+        geonamesid: 1591527
+        latitude: 21.26667
+        longitude: 106.2
+        name: "Bắc Giang"
+        names_en: ~
+        names_es: ~
+        population: 53728
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905419
+    name: "Bắc Giang"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Da Nang"
+    cities: 
+      - 
+        alternate_names: 
+          - "Da Nang"
+          - Danang
+          - Tourane
+          - Turan
+        ascii_name: Turan
+        geonamesid: 1583992
+        latitude: 16.06778
+        longitude: 108.22083
+        name: Turan
+        names_en: 
+          - "Da Nang"
+        names_es: 
+          - "Da Nang"
+        population: 752493
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905468
+    name: "Ðà Nẵng"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Duong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Phu Cuong"
+          - "Phú Cường"
+          - "Thu Dau Mot"
+          - "Thủ Dầu Một"
+        ascii_name: "Thu Dau Mot"
+        geonamesid: 1565022
+        latitude: 10.96667
+        longitude: 106.65
+        name: "Thủ Dầu Một"
+        names_en: 
+          - "Thu Dau Mot"
+        names_es: ~
+        population: 91009
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905475
+    name: "Bình Dương"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Binh Phuoc"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ap Dong Xoai"
+          - "Don Luan"
+          - "Dong Xoa"
+          - "Dong Xoai"
+        ascii_name: "Dong Xoai"
+        geonamesid: 1582436
+        latitude: 11.53333
+        longitude: 106.91667
+        name: "Dồng Xoài"
+        names_en: 
+          - "Dong Xoai"
+        names_es: ~
+        population: 23978
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905480
+    name: "Bình Phước"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Thai Nguyen"
+    cities: 
+      - 
+        alternate_names: 
+          - Taj-Nguen
+          - "Thai Nguyen"
+          - "Thái Nguyên"
+          - Тай-Нгуен
+        ascii_name: "Thai Nguyen"
+        geonamesid: 1566319
+        latitude: 21.59278
+        longitude: 105.84417
+        name: "Thái Nguyên"
+        names_en: ~
+        names_es: ~
+        population: 133877
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905497
+    name: "Thái Nguyên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Quang Nam"
+    cities: 
+      - 
+        alternate_names: 
+          - "Tam Ky"
+          - "Tam Kỳ"
+          - Tanky
+        ascii_name: "Tam Ky"
+        geonamesid: 1567148
+        latitude: 15.56667
+        longitude: 108.48333
+        name: "Tam Kỳ"
+        names_en: ~
+        names_es: ~
+        population: 59000
+        timezone: Asia/Ho_Chi_Minh
+      - 
+        alternate_names: 
+          - Faifo
+          - Faifoh
+          - Faifoo
+          - Feifu
+        ascii_name: "Hoi An"
+        geonamesid: 1580541
+        latitude: 15.87944
+        longitude: 108.335
+        name: "Hội An"
+        names_en: 
+          - "Hoi An"
+        names_es: ~
+        population: 32757
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905516
+    name: "Quảng Nam"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Phu Tho"
+    cities: 
+      - 
+        alternate_names: 
+          - "Viet Tri"
+          - Vietri
+          - "Việt Trì"
+        ascii_name: "Viet Tri"
+        geonamesid: 1562820
+        latitude: 21.30194
+        longitude: 105.43083
+        name: "Việt Trì"
+        names_en: ~
+        names_es: ~
+        population: 93475
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905577
+    name: "Phú Thọ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Nam Dinh"
+    cities: 
+      - 
+        alternate_names: 
+          - "Nam Din\""
+          - "Nam Dinh"
+          - "Nam Din”"
+          - "Nam Ðịnh"
+        ascii_name: "Nam Dinh"
+        geonamesid: 1573517
+        latitude: 20.41667
+        longitude: 106.16667
+        name: "Nam Ðịnh"
+        names_en: ~
+        names_es: ~
+        population: 193499
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905626
+    name: "Nam Ðịnh"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ha Nam"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fu Li"
+          - Ha-Nam
+          - "Phu Ly"
+          - Phu-li
+        ascii_name: "Phu Ly"
+        geonamesid: 1570449
+        latitude: 20.54111
+        longitude: 105.91389
+        name: "Phủ Lý"
+        names_en: ~
+        names_es: ~
+        population: 31801
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905637
+    name: "Hà Nam"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Kan"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Can"
+          - "Bac Kan"
+          - "Bak Kan"
+          - "Bắc Cạn"
+        ascii_name: "Bac Kan"
+        geonamesid: 1591538
+        latitude: 22.13333
+        longitude: 105.83333
+        name: "Bắc Kạn"
+        names_en: 
+          - "Bac Kan"
+        names_es: ~
+        population: 17701
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905669
+    name: "Bắc Kạn"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Bac Lieu"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bac Lieu"
+          - Bac-Lien
+          - "Bach Lieu"
+          - "Bak Lieu"
+        ascii_name: "Bac Lieu"
+        geonamesid: 1591474
+        latitude: 9.285
+        longitude: 105.72444
+        name: "Bạc Liêu"
+        names_en: ~
+        names_es: ~
+        population: 107911
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905675
+    name: "Bạc Liêu"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Ca Mau"
+    cities: 
+      - 
+        alternate_names: 
+          - "Ca Mau"
+          - Camo
+          - "Cu Mau"
+          - "Cà Mau"
+        ascii_name: "Ca Mau"
+        geonamesid: 1586443
+        latitude: 9.17694
+        longitude: 105.15
+        name: "Cà Mau"
+        names_en: ~
+        names_es: ~
+        population: 111894
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905678
+    name: "Cà Mau"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hai Duong"
+    cities: 
+      - 
+        alternate_names: 
+          - "Hai Doong"
+          - "Hai Duong"
+          - "Hai dzung"
+          - Hai-Doung
+        ascii_name: "Hai Duong"
+        geonamesid: 1581326
+        latitude: 20.93333
+        longitude: 106.31667
+        name: "Hải Dương"
+        names_en: ~
+        names_es: ~
+        population: 58030
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905686
+    name: "Hải Dương"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Hung Yen"
+    cities: 
+      - 
+        alternate_names: 
+          - Hong-Yen
+          - "Hung Yen"
+          - "Hưng Yên"
+        ascii_name: "Hung Yen"
+        geonamesid: 1580142
+        latitude: 20.65
+        longitude: 106.06667
+        name: "Hưng Yên"
+        names_en: ~
+        names_es: ~
+        population: 40273
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905699
+    name: "Hưng Yên"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Tinh Vinh Phuc"
+    cities: 
+      - 
+        alternate_names: 
+          - "Vieh Yen"
+          - "Vinh Yen"
+          - "Vĩnh Yên"
+          - Yen
+        ascii_name: "Vinh Yen"
+        geonamesid: 1562548
+        latitude: 21.31
+        longitude: 105.59667
+        name: "Vĩnh Yên"
+        names_en: ~
+        names_es: ~
+        population: 17876
+        timezone: Asia/Ho_Chi_Minh
+    geonamesid: 1905856
+    name: "Vĩnh Phúc"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Hau Giang"
+    cities: []
+    geonamesid: 7506719
+    name: "Hau Giang"
+    names_en: ~
+    names_es: ~

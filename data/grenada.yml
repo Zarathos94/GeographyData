@@ -1,0 +1,142 @@
+--- 
+geonamesid: 3580239
+iso: GD
+name: Grenada
+names_en: 
+  - Grenada
+names_es: 
+  - Granada
+regions: 
+  - 
+    ascii_name: "Saint Patrick"
+    cities: 
+      - 
+        alternate_names: 
+          - Sauteurs
+          - Sautiers
+        ascii_name: Sauteurs
+        geonamesid: 3579891
+        latitude: 12.21667
+        longitude: -61.63333
+        name: Sauteurs
+        names_en: ~
+        names_es: ~
+        population: 1320
+        timezone: America/Grenada
+    geonamesid: 3579907
+    name: "Saint Patrick"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Mark"
+    cities: 
+      - 
+        alternate_names: 
+          - "Grand Pauve"
+          - "Grand Pauvre"
+          - "Saint Mark"
+          - "Saint Mark Village"
+        ascii_name: Victoria
+        geonamesid: 3579833
+        latitude: 12.19021
+        longitude: -61.70677
+        name: Victoria
+        names_en: ~
+        names_es: ~
+        population: 2256
+        timezone: America/Grenada
+    geonamesid: 3579913
+    name: "Saint Mark"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint John"
+    cities: 
+      - 
+        alternate_names: 
+          - "Charlotte Town"
+          - Gouave
+          - Gouyave
+          - Goyave
+        ascii_name: Gouyave
+        geonamesid: 3580279
+        latitude: 12.16667
+        longitude: -61.73333
+        name: Gouyave
+        names_en: ~
+        names_es: ~
+        population: 3378
+        timezone: America/Grenada
+    geonamesid: 3579919
+    name: "Saint John"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint George"
+    cities: 
+      - 
+        alternate_names: 
+          - "Fort Royal"
+          - Georgetown
+          - "Grenada City"
+          - Lewis
+        ascii_name: "Saint George's"
+        geonamesid: 3579925
+        latitude: 12.05644
+        longitude: -61.74849
+        name: "Saint George's"
+        names_en: 
+          - "St. George's"
+        names_es: 
+          - "Saint George's"
+        population: 7500
+        timezone: America/Grenada
+    geonamesid: 3579926
+    name: "Saint George"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint David"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "Saint David's"
+        geonamesid: 3579931
+        latitude: 12.03333
+        longitude: -61.66667
+        name: "Saint David’s"
+        names_en: ~
+        names_es: ~
+        population: 1321
+        timezone: America/Grenada
+    geonamesid: 3579932
+    name: "Saint David"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Saint Andrew"
+    cities: 
+      - 
+        alternate_names: 
+          - Grenville
+          - "La Baye"
+        ascii_name: Grenville
+        geonamesid: 3580236
+        latitude: 12.11667
+        longitude: -61.61667
+        name: Grenville
+        names_en: ~
+        names_es: ~
+        population: 2476
+        timezone: America/Grenada
+    geonamesid: 3579938
+    name: "Saint Andrew"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Carriacou and Petite Martinique"
+    cities: []
+    geonamesid: 7303836
+    name: "Carriacou and Petite Martinique"
+    names_en: ~
+    names_es: ~

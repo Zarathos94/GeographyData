@@ -1,0 +1,54 @@
+--- 
+geonamesid: 1820814
+iso: BN
+name: Brunei
+names_en: 
+  - Brunei
+names_es: 
+  - Brunéi
+regions: 
+  - 
+    ascii_name: "Tutong District"
+    cities: []
+    geonamesid: 1820068
+    name: Tutong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Temburong District"
+    cities: []
+    geonamesid: 1820106
+    name: Temburong
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Brunei and Muara District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Bandar Seri Begavanas"
+          - "Bandar Seri Begawan"
+          - Bandar-Seri-Begavan
+          - Bandar-Seri-Begavano
+        ascii_name: "Bandar Seri Begawan"
+        geonamesid: 1820906
+        latitude: 4.94029
+        longitude: 114.94806
+        name: "Bandar Seri Begawan"
+        names_en: 
+          - "Bandar Seri Begawan"
+        names_es: 
+          - "Bandar Seri Begawan"
+        population: 64409
+        timezone: Asia/Brunei
+    geonamesid: 1820818
+    name: "Brunei and Muara"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Belait District"
+    cities: []
+    geonamesid: 1820869
+    name: Belait
+    names_en: ~
+    names_es: ~

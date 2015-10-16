@@ -1,0 +1,192 @@
+--- 
+geonamesid: 3582678
+iso: BZ
+name: Belize
+names_en: 
+  - Belize
+names_es: 
+  - Belice
+regions: 
+  - 
+    ascii_name: "Toledo District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Punta Gorda"
+        ascii_name: "Punta Gorda"
+        geonamesid: 3581398
+        latitude: 16.1
+        longitude: -88.8
+        name: "Punta Gorda"
+        names_en: ~
+        names_es: ~
+        population: 5026
+        timezone: America/Belize
+    geonamesid: 3580913
+    name: Toledo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Stann Creek District"
+    cities: 
+      - 
+        alternate_names: 
+          - Dangriga
+          - "Dangriga Town"
+          - "Stann Creek"
+          - "Stann Creek Town"
+        ascii_name: Dangriga
+        geonamesid: 3582228
+        latitude: 16.96667
+        longitude: -88.21667
+        name: Dangriga
+        names_en: ~
+        names_es: ~
+        population: 10750
+        timezone: America/Belize
+    geonamesid: 3580975
+    name: "Stann Creek"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Orange Walk District"
+    cities: 
+      - 
+        alternate_names: 
+          - "Orange Walk"
+        ascii_name: "Orange Walk"
+        geonamesid: 3581514
+        latitude: 18.06667
+        longitude: -88.55
+        name: "Orange Walk"
+        names_en: ~
+        names_es: ~
+        population: 15298
+        timezone: America/Belize
+    geonamesid: 3581511
+    name: "Orange Walk"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Corozal District"
+    cities: 
+      - 
+        alternate_names: 
+          - Corasal
+          - Corazal
+          - Corosal
+          - Corozal
+        ascii_name: Corozal
+        geonamesid: 3582305
+        latitude: 18.38333
+        longitude: -88.38333
+        name: Corozal
+        names_en: ~
+        names_es: ~
+        population: 8724
+        timezone: America/Belize
+    geonamesid: 3582302
+    name: Corozal
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Cayo District"
+    cities: 
+      - 
+        alternate_names: 
+          - Cayo
+          - "Cayo Town"
+          - "El Cayo"
+          - "El Cayo de San Ignacio"
+        ascii_name: "San Ignacio"
+        geonamesid: 3581194
+        latitude: 17.15611
+        longitude: -89.07139
+        name: "San Ignacio"
+        names_en: ~
+        names_es: ~
+        population: 16812
+        timezone: America/Belize
+      - 
+        alternate_names: 
+          - "Bengue Viejo"
+          - "Benique Viejo del Carmen"
+          - "Benque Viejo"
+          - "Benque Viejo del Carmen"
+        ascii_name: "Benque Viejo del Carmen"
+        geonamesid: 3582662
+        latitude: 17.075
+        longitude: -89.13917
+        name: "Benque Viejo del Carmen"
+        names_en: ~
+        names_es: ~
+        population: 7092
+        timezone: America/Belize
+      - 
+        alternate_names: 
+          - Bel'mopan
+          - Belmopan
+          - Belmopanas
+          - Belmopano
+        ascii_name: Belmopan
+        geonamesid: 3582672
+        latitude: 17.25
+        longitude: -88.76667
+        name: Belmopan
+        names_en: 
+          - Belmopan
+        names_es: 
+          - Belmopán
+        population: 13381
+        timezone: America/Belize
+      - 
+        alternate_names: 
+          - "Valley of Peace"
+        ascii_name: "Valley of Peace"
+        geonamesid: 3830322
+        latitude: 17.33472
+        longitude: -88.83472
+        name: "Valley of Peace"
+        names_en: ~
+        names_es: ~
+        population: 1809
+        timezone: America/Belize
+    geonamesid: 3582429
+    name: Cayo
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Belize District"
+    cities: 
+      - 
+        alternate_names: ~
+        ascii_name: "San Pedro"
+        geonamesid: 3581164
+        latitude: 17.91598
+        longitude: -87.9659
+        name: "San Pedro"
+        names_en: ~
+        names_es: ~
+        population: 8418
+        timezone: America/Belize
+      - 
+        alternate_names: 
+          - Belice
+          - Belizas
+          - Belize
+          - "Belize City"
+        ascii_name: "Belize City"
+        geonamesid: 3582677
+        latitude: 17.49952
+        longitude: -88.19756
+        name: "Belize City"
+        names_en: 
+          - "Belize City"
+        names_es: 
+          - "Ciudad de Belice"
+        population: 61461
+        timezone: America/Belize
+    geonamesid: 3582676
+    name: Belize
+    names_en: ~
+    names_es: ~

@@ -1,0 +1,207 @@
+--- 
+geonamesid: 285570
+iso: KW
+name: Kuwait
+names_en: 
+  - Kuwait
+  - "State of Kuwait"
+names_es: 
+  - Kuwait
+regions: 
+  - 
+    ascii_name: "Muhafazat Hawalli"
+    cities: []
+    geonamesid: 285628
+    name: Ḩawallī
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Wafrah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Wafrah"
+          - aalwafrat
+          - اَلْوَفْرَة
+        ascii_name: "Al Wafrah"
+        geonamesid: 285760
+        latitude: 28.63917
+        longitude: 47.93056
+        name: "Al Wafrah"
+        names_en: ~
+        names_es: ~
+        population: 10017
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Mahbulah"
+          - "Al Mahbūlah"
+          - Al-Mahabulah
+          - Al-Mahabūlah
+        ascii_name: "Al Mahbulah"
+        geonamesid: 285782
+        latitude: 29.145
+        longitude: 48.13028
+        name: "Al Mahbūlah"
+        names_en: ~
+        names_es: ~
+        population: 18178
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Fahahil"
+          - "Al Faḩāḩīl"
+          - "Al Fuhaihil"
+          - "Al Fuhayhil"
+        ascii_name: "Al Fahahil"
+        geonamesid: 285811
+        latitude: 29.0825
+        longitude: 48.13028
+        name: "Al Faḩāḩīl"
+        names_en: ~
+        names_es: ~
+        population: 68290
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Farwania"
+          - "Al Farwaniyah"
+          - "Al Farwānīyah"
+          - Al-Farawaniyah
+        ascii_name: "Al Farwaniyah"
+        geonamesid: 285815
+        latitude: 29.2775
+        longitude: 47.95861
+        name: "Al Farwānīyah"
+        names_en: ~
+        names_es: ~
+        population: 86525
+        timezone: Asia/Kuwait
+    geonamesid: 285763
+    name: ~
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al `Asimah"
+    cities: 
+      - 
+        alternate_names: 
+          - "Az Zaur"
+          - "Az Zawr"
+          - "Az Zor"
+          - "Failakka Village"
+        ascii_name: "Az Zawr"
+        geonamesid: 285673
+        latitude: 29.4425
+        longitude: 48.27472
+        name: "Az Zawr"
+        names_en: ~
+        names_es: ~
+        population: 5750
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Kuwait"
+          - "Al Kuwayt"
+          - Al-Kuwait
+          - "Ciudad de Kuwait"
+        ascii_name: Kuwait
+        geonamesid: 285787
+        latitude: 29.36972
+        longitude: 47.97833
+        name: Kuwait
+        names_en: 
+          - "Kuwait City"
+          - Kuwait
+        names_es: 
+          - "Ciudad de Kuwait"
+          - Kuwait
+        population: 60064
+        timezone: Asia/Kuwait
+    geonamesid: 285788
+    name: "Al ‘Āşimah"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat Jahra'"
+    cities: 
+      - 
+        alternate_names: 
+          - "Al Jahara"
+          - "Al Jahra"
+          - "Al Jahra'"
+          - "Al Jahrah"
+        ascii_name: "Al Jahra'"
+        geonamesid: 285799
+        latitude: 29.3375
+        longitude: 47.65806
+        name: "Al Jahrā’"
+        names_en: 
+          - "Al Jahra"
+        names_es: ~
+        population: 24281
+        timezone: Asia/Kuwait
+    geonamesid: 285798
+    name: "Al Jahrāʼ"
+    names_en: ~
+    names_es: ~
+  - 
+    ascii_name: "Al Farwaniyah"
+    cities: []
+    geonamesid: 285816
+    name: "Al Farwaniyah"
+    names_en: 
+      - "Al Farwaniyah"
+    names_es: ~
+  - 
+    ascii_name: "Muhafazat al Ahmadi"
+    cities: 
+      - 
+        alternate_names: 
+          - Al-Riqqah
+          - "Ar Riqqah"
+          - Reqqa
+          - aalriqat
+        ascii_name: "Ar Riqqah"
+        geonamesid: 285728
+        latitude: 29.14583
+        longitude: 48.09472
+        name: "Ar Riqqah"
+        names_en: ~
+        names_es: ~
+        population: 52068
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Manjaf"
+          - "Al Manqaf"
+          - Al-Mangaf
+          - Manqaf
+        ascii_name: "Al Manqaf"
+        geonamesid: 285778
+        latitude: 29.09611
+        longitude: 48.13278
+        name: "Al Manqaf"
+        names_en: ~
+        names_es: ~
+        population: 39025
+        timezone: Asia/Kuwait
+      - 
+        alternate_names: 
+          - "Al Fantas"
+          - "Al Fintas"
+          - "Al Fintass"
+          - "Al Fintās"
+        ascii_name: "Al Fintas"
+        geonamesid: 285812
+        latitude: 29.17389
+        longitude: 48.12111
+        name: "Al Finţās"
+        names_en: ~
+        names_es: ~
+        population: 23071
+        timezone: Asia/Kuwait
+    geonamesid: 285841
+    name: "Al Aḩmadī"
+    names_en: ~
+    names_es: ~
