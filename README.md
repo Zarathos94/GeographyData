@@ -9,6 +9,9 @@ GeographyData
 
 Usage
 ------
-```javascript
-
-```
+| URL           | Parameters                       | Returns                        |
+| ------------- |:--------------------------------:| ------------------------------:|
+| /             | ?country=[String]&state=[String] | JSON array of cities           |
+| /countries    |                                  | JSON array of countries        |
+| /states       | ?country=[String]                | JSON array of states by country|
+| /cities       | ?country=[String]?state=[String] | JSON array of cities by state  |
