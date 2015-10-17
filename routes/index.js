@@ -16,56 +16,41 @@ var _ = require('underscore');
 });*/
 
 router.get('/', function(req, res, next) {
-    var code = 404;
-    var resInfo = {};
-    if(req.query.country) {
-        if(!req.query.state) {
-            resInfo = _.find(geoData, function(c) {
-                return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
-            });
-            code = 200;
-        }
-        else {
-            if(!req.query.city) {
-                var countryInfo = _.find(geoData, function(c) {
-                    return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
-                });
-                var stateInfo = _.find(countryInfo.states, function(c) {
-                    return (c.name.toUpperCase() === req.query.state.toUpperCase() || c.sourceName.toUpperCase() === req.query.country.toUpperCase());
-                });
-                resInfo = {
-                    state: stateInfo
-                };
-                code = 200;
-            }
-            else {
-                var cInfo = _.find(geoData, function(c) {
-                    return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
-                });
-                stateInfo = _.find(cInfo.states, function(c) {
-                    return (c.name.toUpperCase() === req.query.state.toUpperCase() || c.sourceName.toUpperCase() === req.query.country.toUpperCase());
-                });
-                cityInfo = _.find(stateInfo.cities, function(c) {
-                    return (c.asciiName.toUpperCase() === req.query.state.toUpperCase() || c.originalName.toUpperCase() === req.query.country.toUpperCase());
-                });
-                resInfo = {
-                    state: stateInfo,
-                    city: cityInfo
-                };
-                code = 200;
-            }
-        }
-    }
-    else {
-        resInfo = {
-            error: "No country specified!"
-        };
-        code = 400;
-    }
-    res.status(code).send({
-        response: resInfo
-    });
+    try {
+        var countryList = [];
 
+        for(var j=0; j<geoData.length; j++) {
+            countryList.push(
+                geoData[j].name
+            );
+        }
+
+        res.status(200).send({countryList: countryList });
+    }
+    catch(e) {
+        res.status(404).send({
+            response: "Nothing found"
+        });
+    }
+});
+router.get('/abbrev', function(req, res, next) {
+    try {
+        var countryList = [];
+
+        for(var j=0; j<geoData.length; j++) {
+            countryList.push({
+                    name: geoData[j].name,
+                    abbreviation: geoData[j].abbreviation
+            });
+        }
+
+        res.status(200).send({countryList: countryList });
+    }
+    catch(e) {
+        res.status(404).send({
+            response: "Nothing found"
+        });
+    }
 });
 
 router.get('/country', function(req, res, next) {

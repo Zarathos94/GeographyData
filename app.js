@@ -25,6 +25,7 @@ app.use(function (req, res, next) {
 
   try {
     var s = req.url.split('/');
+
     if(req.url.indexOf('?') > 0 || req.url.indexOf('=') > 0 || req.url.indexOf('&') > 0 || s.length < 2) {
       res.status(400).send({
         error: "Bad request."
@@ -33,14 +34,17 @@ app.use(function (req, res, next) {
     var countryName = decodeURI(s[1]);
     if(s.length === 2) {
 
+
       var country =_.find(geoData, function(c) {
+        if(!c.name || !c.abbreviation) {
+          return false;
+        }
         return (c.name.toUpperCase() === countryName.toUpperCase() || c.abbreviation.toUpperCase() === countryName.toUpperCase());
       });
       if(!country) {
         res.status(404).send({
           error: "Country '" + decodeURI(countryName) + "' could not be found!"
         });
-
       }
       var states = [];
       for(var i=0; i<country.states.length; i++) {
@@ -62,6 +66,9 @@ app.use(function (req, res, next) {
 
       var stateName = decodeURI(s[2]);
       var c =_.find(geoData, function(h) {
+        if(!h.name || !h.abbreviation) {
+          return false;
+        }
         return (h.name.toUpperCase() === countryName.toUpperCase() || h.abbreviation.toUpperCase() === countryName.toUpperCase());
       });
       if(!c) {
@@ -71,6 +78,9 @@ app.use(function (req, res, next) {
 
       }
       var ss =_.find(c.states, function(g) {
+        if(!g.name || !g.sourceName) {
+          return false;
+        }
         return (g.name.toUpperCase() === stateName.toUpperCase() || g.sourceName === stateName.toUpperCase());
       });
       if(!ss) {
