@@ -68,6 +68,28 @@ router.get('/', function(req, res, next) {
 
 });
 
+router.get('/country', function(req, res, next) {
+    try {
+        var cInfo = _.find(geoData, function(c) {
+            return (c.name === req.query.country || c.abbreviation === req.query.country);
+        });
+
+        res.status(200).send({
+            response: {
+                name: cInfo.name,
+                abbreviation: cInfo.abbreviation,
+                states: cInfo.states
+            }
+        });
+    }
+    catch(e) {
+        res.status(404).send({
+            response: "Nothing found"
+        });
+    }
+
+});
+
 
 router.get('/countries', function(req, res, next) {
     var resInfo = [];
