@@ -9,12 +9,12 @@ GeographyData
 
 Usage
 ------
-| URL           | Parameters                       | Returns                        |
-| ------------- |:--------------------------------:| ------------------------------:|
-| /             | ?country=[String]&state=[String] | JSON array of cities           |
-| /countries    |                                  | JSON array of countries        |
-| /states       | ?country=[String]                | JSON array of states by country|
-| /cities       | ?country=[String]?state=[String] | JSON array of cities by state  |
+| URL           | Type | Parameters                       | Returns                        |
+| ------------- |:----:|:--------------------------------:|:------------------------------:|
+| /             | GET  | ?country=[String]&state=[String] | JSON array of cities           |
+| /countries    | GET  |                                  | JSON array of countries        |
+| /states       | GET  | ?country=[String]                | JSON array of states by country|
+| /cities       | GET  | ?country=[String]?state=[String] | JSON array of cities by state  |
 
 ##### Formatting of one of the country JSON Array elements (In the geoData.json file): 
 ```javascript
