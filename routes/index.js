@@ -84,8 +84,8 @@ router.get('/countries', function(req, res, next) {
         });
     }
     catch(e) {
-        res.status(500).send({
-            response: e.toString()
+        res.status(404).send({
+            response: "Nothing found"
         });
     }
 
@@ -117,8 +117,8 @@ router.get('/states', function(req, res, next) {
         });
     }
     catch(e) {
-        res.status(500).send({
-            response: e.toString()
+        res.status(404).send({
+            response: "Nothing found"
         });
     }
 });
@@ -154,8 +154,8 @@ router.get('/cities', function(req, res, next) {
         });
     }
     catch(e) {
-        res.status(500).send({
-            response: e.toString()
+        res.status(404).send({
+            response: "Nothing found"
         });
     }
 });
