@@ -21,17 +21,17 @@ router.get('/', function(req, res, next) {
     if(req.query.country) {
         if(!req.query.state) {
             resInfo = _.find(geoData, function(c) {
-                return (c.name === req.query.country || c.abbreviation === req.query.country);
+                return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
             });
             code = 200;
         }
         else {
             if(!req.query.city) {
                 var countryInfo = _.find(geoData, function(c) {
-                    return (c.name === req.query.country || c.abbreviation === req.query.country);
+                    return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
                 });
                 var stateInfo = _.find(countryInfo.states, function(c) {
-                    return (c.name === req.query.state || c.sourceName === req.query.country);
+                    return (c.name.toUpperCase() === req.query.state.toUpperCase() || c.sourceName.toUpperCase() === req.query.country.toUpperCase());
                 });
                 resInfo = {
                     state: stateInfo
@@ -40,13 +40,13 @@ router.get('/', function(req, res, next) {
             }
             else {
                 var cInfo = _.find(geoData, function(c) {
-                    return (c.name === req.query.country || c.abbreviation === req.query.country);
+                    return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
                 });
                 stateInfo = _.find(cInfo.states, function(c) {
-                    return (c.name === req.query.state || c.sourceName === req.query.country);
+                    return (c.name.toUpperCase() === req.query.state.toUpperCase() || c.sourceName.toUpperCase() === req.query.country.toUpperCase());
                 });
                 cityInfo = _.find(stateInfo.cities, function(c) {
-                    return (c.asciiName === req.query.state || c.originalName === req.query.country);
+                    return (c.asciiName.toUpperCase() === req.query.state.toUpperCase() || c.originalName.toUpperCase() === req.query.country.toUpperCase());
                 });
                 resInfo = {
                     state: stateInfo,
@@ -71,7 +71,7 @@ router.get('/', function(req, res, next) {
 router.get('/country', function(req, res, next) {
     try {
         var cInfo = _.find(geoData, function(c) {
-            return (c.name === req.query.country || c.abbreviation === req.query.country);
+            return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
         });
 
         res.status(200).send({
@@ -126,7 +126,7 @@ router.get('/states', function(req, res, next) {
     var resInfo = [];
     try {
         var cInfo = _.find(geoData, function(c) {
-            return (c.name === req.query.country || c.abbreviation === req.query.country);
+            return (c.name.toUpperCase() === req.query.country.toUpperCase() || c.abbreviation.toUpperCase() === req.query.country.toUpperCase());
         });
         for(var i=0; i<cInfo.states.length; i++) {
             resInfo.push({

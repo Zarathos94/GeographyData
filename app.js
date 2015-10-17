@@ -18,7 +18,6 @@ app.use(logger('dev'));
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: false }));
 app.use(cookieParser());
-app.use(express.static(path.join(__dirname, 'public')));
 
 app.use('/', routes);
 
@@ -31,16 +30,17 @@ app.use(function (req, res, next) {
         error: "Bad request."
       });
     }
-    var countryName = s[1];
+    var countryName = decodeURI(s[1]);
     if(s.length === 2) {
 
       var country =_.find(geoData, function(c) {
-        return (c.name === countryName || c.abbreviation === countryName);
+        return (c.name.toUpperCase() === countryName.toUpperCase() || c.abbreviation.toUpperCase() === countryName.toUpperCase());
       });
       if(!country) {
         res.status(404).send({
-          error: "Country '" + countryName + "' could not be found!"
+          error: "Country '" + decodeURI(countryName) + "' could not be found!"
         });
+
       }
       var states = [];
       for(var i=0; i<country.states.length; i++) {
@@ -56,25 +56,28 @@ app.use(function (req, res, next) {
             states: states
           }
       });
+
     }
     else {
 
-      var stateName = s[2];
+      var stateName = decodeURI(s[2]);
       var c =_.find(geoData, function(h) {
-        return (h.name === countryName || h.abbreviation === countryName);
+        return (h.name.toUpperCase() === countryName.toUpperCase() || h.abbreviation.toUpperCase() === countryName.toUpperCase());
       });
       if(!c) {
         res.status(404).send({
-          error: "Country '" + countryName + "' could not be found!"
+          error: "Country '" + decodeURI(countryName) + "' could not be found!"
         });
+
       }
       var ss =_.find(c.states, function(g) {
-        return (g.name === stateName || g.sourceName === stateName);
+        return (g.name.toUpperCase() === stateName.toUpperCase() || g.sourceName === stateName.toUpperCase());
       });
       if(!ss) {
         res.status(404).send({
-          error: "State '" + stateName + "' could not be found!"
+          error: "State '" + decodeURI(stateName) + "' could not be found!"
         });
+
       }
       var cities = [];
       for(var k=0; k<ss.cities.length; k++) {
@@ -95,12 +98,14 @@ app.use(function (req, res, next) {
           }
         }
       });
+
     }
   }
   catch(e) {
     res.status(500).send({
       error: e.toString()
     });
+
   }
 
 });
