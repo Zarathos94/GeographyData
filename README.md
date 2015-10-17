@@ -16,6 +16,11 @@ Usage
 | /states       | GET  | ?country=[String]                | JSON array of states by country|
 | /cities       | GET  | ?country=[String]?state=[String] | JSON array of cities by state  |
 
+| URL                       | Type | Parameters                       | Returns                        |
+| --------------------------|:----:|:--------------------------------:|:------------------------------:|
+| /countryName/stateName    | GET  |                                  | JSON array of requested data   |
+
+
 ##### Formatting of one of the country JSON Array elements (In the geoData.json file): 
 ```javascript
 { 
